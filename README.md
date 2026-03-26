@@ -1,7 +1,20 @@
-# AI Website Copy Generator
+# Task 1 - Website Copy Generator
 
-Prompt Engineering internship project using Lovable AI to generate high-converting website content for local businesses.
+## Description
+This task focuses on generating high-quality website content using prompt engineering techniques.
 
-Includes reusable prompts and outputs like homepage copy, services, and CTAs.
+## Tools Used
+- ChatGPT
+- Lovable AI
 
-Tools: Lovable AI, ChatGPT
+## Prompt
+Generate high-converting website content for a coaching institute in Vijayawada offering IIT-JEE and NEET courses, including homepage, services, and CTA.
+
+## Output
+- Homepage content  
+- Services section  
+- Call-to-action  
+## Learnings
+- Writing effective prompts  
+- Understanding AI-generated content  
+- Improving output quality
