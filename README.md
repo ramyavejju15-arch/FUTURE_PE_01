@@ -13,7 +13,10 @@ Generate high-converting website content for a coaching institute in Vijayawada 
 ## Output
 - Homepage content  
 - Services section  
-- Call-to-action  
+- Call-to-action
+##Screenshots
+![Homepage]
+(Screenshot 2026-03-25 110949.png)
 ## Learnings
 - Writing effective prompts  
 - Understanding AI-generated content  
