@@ -1,23 +1,35 @@
-# Task 1 - Website Copy Generator
+# Prompt Engineering Internship - Task 1
 
-## Description
-This task focuses on generating high-quality website content using prompt engineering techniques.
+## 📌 Project Title
+AI-Powered Website Copy Generator
 
-## Tools Used
-- ChatGPT
-- Lovable AI
+## 🧠 Description
+This project focuses on generating high-converting website content for a coaching institute using prompt engineering. The goal is to create clear, professional, and result-oriented content.
 
-## Prompt
-Generate high-converting website content for a coaching institute in Vijayawada offering IIT-JEE and NEET courses, including homepage, services, and CTA.
+## 🛠 Tools Used
+- ChatGPT  
+- Lovable AI  
 
-## Output
+## ✍️ Prompt Used
+Generate high-converting website content for a coaching institute in Vijayawada offering IIT-JEE and NEET courses. Include homepage, services, and CTA with a professional tone.
+
+## 📄 Output
 - Homepage content  
-- Services section  
-- Call-to-action
-## Screenshots
+- Courses section  
+- Call-to-action (CTA)  
 
-![Homepage](Screenshot 2026-03-25 110949.png)
-## Learnings
-- Writing effective prompts  
-- Understanding AI-generated content  
-- Improving output quality
+## 📸 Screenshot
+![Homepage](Screenshot 2026-03-25 110949)
+
+## 🧩 Code Files
+- index.html  
+- style.css  
+- script.js  
+
+## 📚 Learnings
+- Prompt design  
+- Content structuring  
+- AI workflow understanding  
+
+## 🚀 Conclusion
+This project shows how prompt engineering can create effective website content.
